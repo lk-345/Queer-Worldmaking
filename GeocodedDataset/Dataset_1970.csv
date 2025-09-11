@@ -1,4 +1,5 @@
 ﻿ID,PlaceName,StreetAddress,VenueType,Clientele,Notes,YearsOpen,Year,CityTown,State,Latitude,Longitude
 
 1,Café Lafitte in Exile,901 Bourbon St,Bar,Male,Longest continuously runnning gay bar in the United States,1933-Present,1970,New Orleans,LA,29.960372,-90.064201
-2,Burgundy Bar,Burgundy & St. Peter,Bar,Mixed,,,1970,New Orleans,LA,,29.959805,-90.067478
+2,Burgundy Bar,Burgundy & St. Peter,Bar,Mixed,,,1970,New Orleans,LA,29.959805,-90.067478
+
