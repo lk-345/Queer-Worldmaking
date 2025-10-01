@@ -1,4 +1,5 @@
 ﻿ID,PlaceName,StreetAddress,VenueType,Clientele,Notes,YearsOpen,Year,CityTown,State,Latitude,Longitude
 
 1,Café Lafitte in Exile,901 Bourbon St,Bar,Male,Longest continuously runnning gay bar in the United States,1933-Present,1972,New Orleans,LA,29.960372,-90.064201
-2,Ali Baba Baths,310 St. Charles Ave,Bathhouse,Male,,,1971,New Orleans,LA,29.951436,-90.070009
+2,Ali Baba Baths,310 St. Charles Ave,Bathhouse,Male,,,1972,New Orleans,LA,29.951436,-90.070009
+3,Anita's,514 Ursulines Ave,Bar,Mixed Gender,,,1972,New Orleans,LA,29.960062,-90.060392
