@@ -1,4 +1,6 @@
 ﻿ID,PlaceName,StreetAddress,VenueType,Clientele,Notes,YearsOpen,Year,CityTown,State,Latitude,Longitude
 
 1,Café Lafitte in Exile,901 Bourbon St,Bar,Male,Longest continuously runnning gay bar in the United States,1933-Present,1974,New Orleans,LA,29.960372,-90.064201
-2,Abbey's,1123 Decatur St.,Bar,Mixed,,,1974,New Orleans,LA,29.960371,-90.059663
+2,Abbey,1123 Decatur St.,Bar,Mixed,,,1974,New Orleans,LA,29.960371,-90.059663
+3,Anita's,514 Ursulines Ave,Bar,Mixed Gender,,,1973,New Orleans,LA,29.960062,-90.060392
+4,Annex,740 Burgundy St.,Bar,Mixed Gender,,,1973,New Orleans,LA,29.960546,-90.066685
