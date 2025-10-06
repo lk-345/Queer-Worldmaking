@@ -1,2 +1,13 @@
 ﻿ID,PlaceName,StreetAddress,VenueType,Clientele,Notes,YearsOpen,Year,CityTown,State,Latitude,Longitude
+
 1,Café Lafitte in Exile,901 Bourbon St,Bar,Male,Longest continuously runnning gay bar in the United States,1933-Present,1975,New Orleans,LA,29.960372,-90.064201
+2,Abbey,1123 Decatur St.,Bar,Mixed,,,1975,New Orleans,LA,29.960371,-90.059663
+3,Anita's,514 Ursulines Ave,Bar,Mixed Gender,,,1975,New Orleans,LA,29.960062,-90.060392
+4,Annex,740 Burgundy St.,Bar,Mixed Gender,,,1975,New Orleans,LA,29.960546,-90.066685
+5,Bank Theatre and Book Store,941 Decatur St,Adult Theatre,Male,,,1975,New Orleans,LA,29.959091,-90.060828
+6,Bourbon Pub,801 Bourbon St,Bar,,,1975,New Orleans,29.959599,-90.064914
+7,Brady's,700 N. Rampart St,Bar,Mixed gender,,,1975,New Orleans, LA,29.960447,-90.06822
+8,Burgundy House,704 Burgundy St,Bar,Mixed gender,,,1975,New Orleans,LA,29.960288,-90.066919
+9,Café du Monde,French Market Decatur at St.Anne,Restaurant,Mixed,Touristy but a ‘must’ for morning coffee & Doughnuts,,1975,New Orleans,LA,29.957561,-90.061854
+10,Canal Baths,512 Gravier St,Bathhouse,Male,,,1975,New Orleans,LA,29.950238,-90.06726
+11,Club Midship,606 Iberville,Bar,Male,,,1975,New Orleans,LA,29.953578,-90.067636
