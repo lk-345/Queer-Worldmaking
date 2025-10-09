@@ -1,2 +1,9 @@
 ﻿ID,PlaceName,StreetAddress,VenueType,Clientele,Notes,YearsOpen,Year,CityTown,State,Latitude,Longitude
+
 1,Café Lafitte in Exile,901 Bourbon St,Bar,Male,Longest continuously runnning gay bar in the United States,1933-Present,1977,New Orleans,LA,29.960372,-90.064201
+2,Bank Theatre and Book Store,941 Decatur St,Adult Theatre,Male,,,1977,New Orleans,LA,29.959091,-90.060828
+3,Bourbon Pub,801 Bourbon St,Bar,Male,,,1977,New Orleans,LA,29.959599,-90.064914
+4,Brady's,700 N. Rampart St,Bar,Mixed gender,,,1977,New Orleans, LA,29.960447,-90.06822
+5,Burgundy House,704 Burgundy St,Bar,Mixed gender,,,1977,New Orleans,LA,29.960288,-90.066919
+6,Café du Monde,French Market Decatur at St.Anne,Restaurant,Mixed,Touristy but a ‘must’ for morning coffee & Doughnuts,,1977,New Orleans,LA,29.957561,-90.061854
+7,Camp News,615 Common St,Store,Male,Book store,,1977,New Orleans,LA,29.951948,-90.069033
