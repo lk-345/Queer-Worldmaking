@@ -39,7 +39,7 @@
 37,White Rabbit Disco,701 Bourbon St,Bar,Male,Above Lapin Blanc,,1979,New Orleans,LA,29.958715,-90.065675
 38,Le Bistro,800 Bourbon St,Bar,Male,,,1979,New Orleans,LA,29.959493,-90.064741
 39,Louisiana Purchase,740 Dauphine,Bar,Male,,,1979,New Orleans,LA,29.959945,-90.065748
-40,Maxey's Coffee Pot,714 St Peter St.,Restaurant,N/A,,,1979,New Orleans,LA,29.958152,-90.065155
+40,Maxey's Coffee Pot,714 St Peter St.,Restaurant,Mixed,,,1979,New Orleans,LA,29.958152,-90.065155
 41,Metropolitan Community Church,1744 N. Rampart St,Church,Mixed Gender,,,1978,New Orleans,LA,29.967164,-90.061899
 42,Noble Arms Guest House,1006 Royal St.,Hotel,N/A,,,1979,New Orleans,LA,29.96046,-90.062301
 43,Off the Wall,903 St Peter St,Restaurant,Mixed,,,1979,New Orleans,LA,29.959307,-90.066562
@@ -84,3 +84,4 @@
 82,Knoxville Book Mart & Art Cinema,145 Gay St S.W,Store,Male,,,1979,Knoxville,TN,35.968341,-83.920432
 83,Last Straw,9 W. Salem Ave,Restaurant,Male,,,1979,Roanoke,VA,37.272547,-79.940657
 84,Murphy's,415 1st st,Bar,Male,,,1979,Roanoke,VA,37.270451,-79.942502
+
