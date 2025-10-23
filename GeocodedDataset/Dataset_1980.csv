@@ -1,2 +1,28 @@
 ﻿ID,PlaceName,StreetAddress,VenueType,Clientele,Notes,YearsOpen,Year,CityTown,State,Latitude,Longitude
+
 1,Café Lafitte in Exile,901 Bourbon St,Bar,Male,Longest continuously runnning gay bar in the United States,1933-Present,1980,New Orleans,LA,29.960372,-90.064201
+2,Apple Barrel,1940 Dauphine,Restaurant,Mixed,,,1980,New Orleans,LA,29.965361,-90.059095
+3,Bourbon Pub,801 Bourbon St,Bar,Male,,,1980,New Orleans,LA,29.959599,-90.064914
+4,Camp Baths,512 Gravier St,Bathhouse,Male,'best to avoid'Damrons address book,,1980,New Orleans,LA,29.950238,-90.06726
+5,Canal Baths,738 N Rampart St,Bathhouse,Male,,,1980,New Orleans,LA,29.960579,-90.068153
+6,Charlene's,940 Elysian Fields,Bar,Lesbian,,,1980,New Orleans,LA,29.967338,-90.05709
+7,Club French Quarter Baths,1129-31 Decatur St,Bathhouse,Male,,,1980,New Orleans,LA,29.96048,-90.059587
+8,Club New Orleans Baths,515 Toulouse Ave.,Bathhouse,Male,Noted as popular,,1980,New Orleans,LA,29.956253,-90.063877
+9,Lafittes Corral,901 Bourbon St,Bar,Male,Above Lafitte's in Exile,,1980,New Orleans,LA,29.960372,-90.064201
+10,Decatur News,941 Decatur,Store,Male,,,1980,New Orleans,LA,29.959091,-90.060828
+11,Fat Sam's,940 Conti,Bar,Male,,,1980,New Orleans,LA,29.957212,-90.06928
+12,Finale II,642 N.Rampart St,Bar,Male,,,1980,New Orleans,LA,29.960313,-90.068384
+13,Flamingo's Cafe & Bar,1625 St. Charles Ave.,Bar,Male,,,1980,New Orleans,LA,29.938089,-90.076691
+14,Golden Lantern,1239 Royal St,Bar,Male,,-Present,1980,New Orleans,LA,29.962737,-90.0606
+15,Jewel's Tavern,1207 Decatur St.,Bar,Male,'cruisy''active 'john' in the back room',,1980,New Orleans,LA,29.960944,-90.059251
+16,Lafitte Guest House,1003 Bourbon St.,Hotel/Motel,N/A,,,1980,New Orleans,LA,29.961263,-90.063553
+17,Le Bistro,800 Bourbon St,Bar,Male,,,1980,New Orleans,LA,29.959493,-90.064741
+18,Louisiana Purchase,740 Dauphine,Bar,Male,,,1980,New Orleans,LA,29.959945,-90.065748
+19,Maxey's Coffee Pot,714 St Peter St.,Restaurant,Mixed,,,1980,New Orleans,LA,29.958152,-90.065155
+20,Off the Wall,903 St Peter St,Restaurant,Mixed,,,1980,New Orleans,LA,29.959307,-90.066562
+21,Tigers,740 Burgundy,Bar,Male,,,1980,New Orleans,LA,29.960546,-90.066685
+22,Tortilla Flats,95 French Market Pl.,Restaurant,Mixed,,,1980,New Orleans,LA,29.961107,-90.058272
+23,Travis's,835 N. Rampart St.,Bar,Male,,,1980,New Orleans,LA,29.961586,-90.067253
+24,T.T.West,820 N. Rampart St,Bar,Male,'Wild back room',,1980,New Orleans,LA,29.961496,-90.067336
+25,Trocadreo,704 Burgundy,Bar,Male,'Cruisy',,1980,New Orleans,LA,29.960288,-90.066919
+26,Ursulines Guest House,708 Ursulines Ave,Hotel/Motel,N/A,,,1980,New Orleans,LA,29.961348,-90.062225
